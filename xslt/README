@@ -1,0 +1,9 @@
+= Transformation of ATOM and other XML documents in JSON =
+
+Data Casting, Validators and Stylesheet transformations for JSON
+
+This is part of experiments for the development of the JSON encoding 
+for the OGC Context Document specification 1.0.0 
+
+This work is funded through the OWS-10 Interoperability Testbed http://www.opengeospatial.org/standards/requests/103 public-private partnership
+
