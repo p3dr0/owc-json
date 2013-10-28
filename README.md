@@ -1,4 +1,4 @@
 owc-json
 ========
 
-OWS Context - JSON Encoding 
+Open Geospatial Consortium Web Services Context - JSON Encoding 
